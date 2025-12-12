@@ -1,4 +1,4 @@
-# The Shobha Mother Foundation Website
+# The Shobha Mother Foundation 
 
 This is the official website of **The Shobha Mother Foundation**, an NGO started by Shobha from rural Kota.
 
